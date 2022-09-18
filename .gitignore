@@ -1,0 +1,12 @@
+/build
+app/build/
+.gradle/
+
+.idea/
+
+signing.keyId=CBAF123D
+signing.password=lishang2011
+signing.secretKeyRingFile=/Users/personal/secring.gpg
+ossrhUsername=BookSnail
+ossrhPassword=bVkpVqtZ#RAtwY2
+local.properties
