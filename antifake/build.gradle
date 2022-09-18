@@ -51,6 +51,12 @@ android {
             java.srcDirs 'src/main/java'
         }
     }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    ndkVersion '20.0.5594570'
+    buildToolsVersion '22.0.1'
 
 }
 

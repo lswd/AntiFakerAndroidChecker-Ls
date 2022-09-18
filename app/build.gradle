@@ -42,6 +42,8 @@ android {
     viewBinding {
         enabled = true
     }
+    buildToolsVersion '22.0.1'
+    ndkVersion '20.0.5594570'
 }
 
 dependencies {
